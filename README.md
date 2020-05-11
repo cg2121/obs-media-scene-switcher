@@ -1,0 +1,1 @@
+# obs-media-scene-switcher
